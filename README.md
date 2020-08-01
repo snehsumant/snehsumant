@@ -13,6 +13,7 @@
 
 - 💻 &nbsp; Python | Java | C++ | GNU Octave
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js
+- 📱 &nbsp; Android Studio
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp; Git 
 
