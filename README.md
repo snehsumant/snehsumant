@@ -1,4 +1,4 @@
-### Hi there 👋 SNeh here ^_^
+### Hi there 👋 स्नेह here ^_^
 
 
 <h3> 👨🏻‍💻 About Me </h3>
