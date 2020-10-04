@@ -1,18 +1,17 @@
-### Hi there 👋🏻 स्नेह here ^_^
+### Hi there 👋🏻 SNeh here ^_^
 
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤖 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Science and Engineering.
-- 💼 &nbsp; Software Developer Intern at Geminid Systems Inc.
+- 💼 &nbsp; Android Developer
 - 🌱 &nbsp; Learning more about Machine Learning, Artificial Intelligence and Cloud Administration .
 - 🎶 &nbsp; Music and Anime Lover.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java | C++ | GNU Octave
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js
 - 📱 &nbsp; Android Studio
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp; Git 
