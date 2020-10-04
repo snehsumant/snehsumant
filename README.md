@@ -5,7 +5,7 @@
 
 - 🤖 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Science and Engineering.
-- 💼 &nbsp; Android Developer
+- 💼 &nbsp; Android Developer.
 - 🌱 &nbsp; Learning more about Machine Learning, Artificial Intelligence and Cloud Administration .
 - 🎶 &nbsp; Music and Anime Lover.
 
