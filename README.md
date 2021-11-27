@@ -11,7 +11,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++ | GNU Octave
+- 💻 &nbsp; Python | Java
 - 📱 &nbsp; Android Studio
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp; Git 
